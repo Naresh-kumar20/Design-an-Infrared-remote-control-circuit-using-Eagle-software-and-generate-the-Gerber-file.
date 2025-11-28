@@ -1,5 +1,5 @@
 # Design-an-Infrared-remote-control-circuit-using-Eagle-software-and-generate-the-Gerber-file.
-## Exp 4: Design an Infrared remote control circuit using Eagle software
+## Exp 2: Design an Infrared remote control circuit using Eagle software
 ## AIM:
 To design the schematic and PCB layout diagram of an Infrared remote control circuit using Eagle software.
 
@@ -43,8 +43,12 @@ When a button on the IR remote is pressed, it sends a modulated 38kHz IR signal 
 
 ## EXPECTED OUTPUT:
 ### Schematic diagram
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 142556" src="https://github.com/user-attachments/assets/41b3fc80-40b1-46c5-b021-9f636ad62ad2" />
+
  
 ### Layout diagram
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 142151" src="https://github.com/user-attachments/assets/ef624f93-5d80-4694-ac18-962574f012d9" />
+
  
 ## RESULT:
 Thus, the schematic and PCB layout for the Infrared remote control circuit has been successfully designed using Eagle software.
